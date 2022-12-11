@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ArtistCard> spec render a artist card component 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <a
+        class="border p-2 flex mb-2"
+        href="/detail/theweeknd"
+      >
+        <div
+          class="mr-2"
+        >
+          <img
+            alt="The Weeknd"
+            class="w-28 h-28"
+            data-nimg="1"
+            decoding="async"
+            height="500"
+            loading="lazy"
+            src="/_next/image?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2F64s%2F2a96cbd8b46e442fc41c2b86b821562f.png&w=1080&q=75"
+            srcset="/_next/image?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2F64s%2F2a96cbd8b46e442fc41c2b86b821562f.png&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2F64s%2F2a96cbd8b46e442fc41c2b86b821562f.png&w=1080&q=75 2x"
+            style="color: transparent;"
+            width="500"
+          />
+        </div>
+        <div
+          class="flex-col flex justify-between"
+        >
+          <h3
+            class="font-bold"
+          >
+            Artist : 
+            <span
+              class="italic"
+            >
+              The Weeknd
+            </span>
+          </h3>
+          <div
+            class="text-sm text-gray-500"
+          >
+            <p>
+              Listeners : 
+              2940862
+            </p>
+            <p>
+              Play Count : 
+              378836644
+            </p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </body>,
+  "container": <div>
+    <a
+      class="border p-2 flex mb-2"
+      href="/detail/theweeknd"
+    >
+      <div
+        class="mr-2"
+      >
+        <img
+          alt="The Weeknd"
+          class="w-28 h-28"
+          data-nimg="1"
+          decoding="async"
+          height="500"
+          loading="lazy"
+          src="/_next/image?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2F64s%2F2a96cbd8b46e442fc41c2b86b821562f.png&w=1080&q=75"
+          srcset="/_next/image?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2F64s%2F2a96cbd8b46e442fc41c2b86b821562f.png&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Flastfm.freetls.fastly.net%2Fi%2Fu%2F64s%2F2a96cbd8b46e442fc41c2b86b821562f.png&w=1080&q=75 2x"
+          style="color: transparent;"
+          width="500"
+        />
+      </div>
+      <div
+        class="flex-col flex justify-between"
+      >
+        <h3
+          class="font-bold"
+        >
+          Artist : 
+          <span
+            class="italic"
+          >
+            The Weeknd
+          </span>
+        </h3>
+        <div
+          class="text-sm text-gray-500"
+        >
+          <p>
+            Listeners : 
+            2940862
+          </p>
+          <p>
+            Play Count : 
+            378836644
+          </p>
+        </div>
+      </div>
+    </a>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
