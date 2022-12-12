@@ -13,7 +13,4 @@ describe('<Layout> spec', () => {
     );
   });
   it('render layout component', () => expect(COMP).toMatchSnapshot());
-
-  it('render artist name', () =>
-    expect(COMP.getByText('LASTFM')).toHaveAttribute('href', '/'));
 });
