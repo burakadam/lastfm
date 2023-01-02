@@ -35,7 +35,7 @@ const Detail = (props: any) => {
   return (
     <Layout>
       <Head>
-        <title>{props.name} Info Page</title>
+        <title>{name} Info Page</title>
       </Head>
       <ArtistCard
         name={name}
